@@ -1,0 +1,24 @@
+/*
+Nomalize CSS import
+Version: 7.0.1
+*/
+@import '../../node_modules/normalize-scss/sass/normalize';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+a,
+a:active,
+a:hover,
+a:visited {
+  text-decoration: none;
+}
+
+/*
+Bootstrap CSS Framework import
+Version: 4.1.3
+*/
+@import '../../node_modules/bootstrap/scss/bootstrap'

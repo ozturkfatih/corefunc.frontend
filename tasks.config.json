@@ -1,0 +1,27 @@
+{
+    "paths": {
+        "src": {
+            "assets": {
+                "images": {},
+                "fonts": {}
+            },
+            "app": {
+                "files": ["**/*.ts","**/*.tsx"],
+                "main": {
+                    "folder": "..",
+                    "files": "app.ts"
+                }
+            },
+            "styles": {}
+        },
+        "public": {
+            "assets": {
+                "images": {},
+                "fonts": {}
+            },
+            "styles": {},
+            "scripts": {}
+        },
+        "test": {}
+    }
+}
