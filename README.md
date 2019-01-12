@@ -1,3 +1,3 @@
-# Aspirin.ClienApp
+# corefunc.frontend
 ## npm install
 ## npm start
